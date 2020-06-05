@@ -18,3 +18,7 @@ them into 133 distinct categories. The power of transfer learning is also demons
 2. *Recurrent Neural Network*:
 This project included the construction of an RNN which is able to create TV scripts. It is trained in a corpus of scripts derived from 10 seasons of a TV sitcom. It is pretty fun!...and with further training or training on different documents, it can even write its own poems!
 [check it out! - TV script generator](https://github.com/MariosKokmo/TV_script_generator--Udacity_Deep_Learning-Nanodegree)
+
+
+3. *Generative Adversarial Network*:
+In this project, a GAN was developed whose aim is to generate faces out of pure white noise. It gets trained by trying to fool a separate classifying network into believing that the faces it generates are real. And it does a pretty good job....well, at least it would fool a human![check it out! - GAN faces](https://github.com/MariosKokmo/Generating_Faces--Udacity_Deep_Learning-Nanodegree)
