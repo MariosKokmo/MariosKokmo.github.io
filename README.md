@@ -21,4 +21,5 @@ This project included the construction of an RNN which is able to create TV scri
 
 
 3. *Generative Adversarial Network*:
-In this project, a GAN was developed whose aim is to generate faces out of pure white noise. It gets trained by trying to fool a separate classifying network into believing that the faces it generates are real. And it does a pretty good job....well, at least it would fool a human![check it out! - GAN faces](https://github.com/MariosKokmo/Generating_Faces--Udacity_Deep_Learning-Nanodegree)
+In this project, a GAN was developed whose aim is to generate faces out of pure white noise. It gets trained by trying to fool a separate classifying network into believing that the faces it generates are real. And it does a pretty good job....well, at least it would fool a human!
+[check it out! - GAN faces](https://github.com/MariosKokmo/Generating_Faces--Udacity_Deep_Learning-Nanodegree)
