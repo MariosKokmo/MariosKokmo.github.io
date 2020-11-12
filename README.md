@@ -5,7 +5,7 @@ I am interested in AI and Data Science, although I admit I am slightly _biased_ 
 
 Without further ado, I will dive into the projects that have already been completed.
 
-<a href="https://github.com/MariosKokmo/MariosKokmo.github.io/blob/master/html/DLND_projects.md" title="DL Nanodegree Projects">DL Nanodegree Projects</a>
+<a href="https://github.com/MariosKokmo/MariosKokmo.github.io/blob/master/html/DLND_projects.html" title="DL Nanodegree Projects">DL Nanodegree Projects</a>
 
 #### Projects related to the Udacity Deep Learning Nanodegree
 This was the first chance for me to become acquainted with the Pytorch framework and practical implementation of some of the most
