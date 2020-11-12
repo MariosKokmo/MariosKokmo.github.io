@@ -6,6 +6,15 @@ I am interested in AI and Data Science, although I admit I am slightly _biased_ 
 Without further ado, I will dive into the projects that have already been completed.
 
 
+#### Projects related to the Udacity Deep Autonomous Flight Engineer Nanodegree
+
+1. *Motion Planning*
+In this first project the goal was to develop a motion planning algorithm in python so that the drone can autonomously navigate
+through a map with known obstale positions.
+
+2. *Controller Implementation*
+
+
 #### Projects related to the Udacity Deep Learning Nanodegree
 This was the first chance for me to become acquainted with the Pytorch framework and practical implementation of some of the most
 intriguing and promissing Neural Networks applications.
@@ -26,4 +35,3 @@ In this project, a GAN was developed whose aim is to generate faces out of pure 
 [check it out! - GAN faces](https://github.com/MariosKokmo/Generating_Faces--Udacity_Deep_Learning-Nanodegree)
 
 
-#### Projects related to the Udacity Deep Autonomous Flight Engineer Nanodegree
