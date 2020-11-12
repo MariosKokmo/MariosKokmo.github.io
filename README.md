@@ -5,7 +5,6 @@ I am interested in AI and Data Science, although I admit I am slightly _biased_ 
 
 Without further ado, I will dive into the projects that have already been completed.
 
-<a href="DLND_projects.html" title="DL Nanodegree Projects">DL Nanodegree Projects</a>
 
 #### Projects related to the Udacity Deep Learning Nanodegree
 This was the first chance for me to become acquainted with the Pytorch framework and practical implementation of some of the most
@@ -25,3 +24,6 @@ This project included the construction of an RNN which is able to create TV scri
 3. *Generative Adversarial Network*:
 In this project, a GAN was developed whose aim is to generate faces out of pure white noise. It gets trained by trying to fool a separate classifying network into believing that the faces it generates are real. And it does a pretty good job....well, at least it would fool a human!
 [check it out! - GAN faces](https://github.com/MariosKokmo/Generating_Faces--Udacity_Deep_Learning-Nanodegree)
+
+
+#### Projects related to the Udacity Deep Autonomous Flight Engineer Nanodegree
