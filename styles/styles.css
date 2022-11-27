@@ -527,6 +527,9 @@ section {
 .blog-sub-title {
   text-align:center;
   postion:relative;
+  padding: 1.5rem;
+  margin-top:5px;
+  margin-bottom:5px;
 }
 
 .contact-content-con {
