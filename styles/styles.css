@@ -524,6 +524,10 @@ section {
   padding-bottom: 1rem;
 }
 
+#blog-sub-title {
+  text-align:center;
+}
+
 .contact-content-con {
   display: flex;
   padding-top: 3.5rem;
