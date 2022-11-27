@@ -524,8 +524,9 @@ section {
   padding-bottom: 1rem;
 }
 
-#blog-sub-title {
+.blog-sub-title {
   text-align:center;
+  postion:relative;
 }
 
 .contact-content-con {
